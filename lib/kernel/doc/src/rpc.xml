@@ -230,6 +230,12 @@
 	    another server, or a freshly spawned process.
 	  </p>
 	</note>
+          <note>
+	  <p>
+	    It is not guaranteed that you will get a response in <anno>Timeout</anno>
+          milliseconds eg. in case of connection problems between nodes.
+	  </p>
+	</note>
       </desc>
     </func>
 
