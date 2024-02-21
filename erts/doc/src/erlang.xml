@@ -1100,7 +1100,7 @@ hello
 ** exception error: bad argument
 > <input>hello.</input>
 hello
-> <input>binary_to_term(&lt;&lt;131,100,0,5,"hello">>, [safe]).</input>
+> <input>binary_to_term(&lt;&lt;131,100,0,5,"hello">>, []).</input>
 hello
 </pre>
 	    <warning>
